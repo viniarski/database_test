@@ -21,7 +21,7 @@ db.exec(`CREATE TABLE IF NOT EXISTS movies (
 db.exec(`
     INSERT into movies (movie, year)
     VALUES
-    ('Pulp Fiction', 1999),
+    ('Pulp Fiction', 1994),
     ('Lock, Stock and Two Smoking Barrels', 2000),
     ('Snatch', 2001)
 `)
